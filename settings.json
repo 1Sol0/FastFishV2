@@ -1,0 +1,24 @@
+{
+    "accesskey": "",
+
+    "statistics": {
+        "fish": 0,
+        "seconds": 0
+    },
+    "alignment": {
+        "humanization": 100,
+        "hotkey": "3",
+        "rod": [
+            750,
+            945,
+            600,
+            200
+        ],
+        "bar": [
+            1650,
+            200,
+            200,
+            600
+        ]
+    }
+}
